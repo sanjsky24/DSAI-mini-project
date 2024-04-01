@@ -1,4 +1,4 @@
-# SC1015 DSAI Mini-Project: Heart attack risk analysis
+# SC1015 DSAI Mini-Project: Heart attack risk analysis and prediction
 
 ![CLICK HERE (1)](https://github.com/sanjsky24/DSAI-mini-project/assets/157721052/ca790e44-ee2e-4032-af40-061727ae130b)
 
