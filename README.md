@@ -1,5 +1,6 @@
 # SC1015 DSAI Mini-Project: Heart attack risk analysis
 
+![image](file:///Users/sanjana/Downloads/CLICK%20HERE%20(1).png)
 
 ## About 
 This is a Mini-Project for SC1015(Introduction to Data Science and Artificial Intelligence) which focuses on the crucial factors contributing to the risk of Heart Attack.
