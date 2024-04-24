@@ -47,7 +47,11 @@ For detailed walkthrough please follow through the codes in the following order:
 - The concepts about precision, recall and F1score
 
 ## Conclusions
-- Through the feature selection, 
+- From the correlation analysis, we have realsied that the factors with the highest correlation are the "thalachh" and the "exng" variables.
+- Specifically from the numeric correlation,"thalachh" came out to have the highest correlation and from the categorical visualization "exng" came out to have the highest correlation
+- From Feature selection, **"Sex (sex)"** and **"Thallium Stress Test Result (thall)"** appear to be the most important features.
+- On comparing the accuracies through the ROC curve, we found out that the more the number of variables the more accurate the model was in the case of random forest, but suprisingly Gradient Boosting did not follow the same trend.
+- Ulitmately, the accuracy of the Random Forest model for all variables is 0.86 or 86% and the accuracuy for the Gradient Boosting model for all the variables is 0.85 or 85%
 
 ## References
 - https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/data
