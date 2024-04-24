@@ -13,13 +13,13 @@ For detailed walkthrough please follow through the codes in the following order:
 4. Final insights
 
 ## Contributors
-- @sanjsky24
-- @mahipandcy
+- @sanjsky24 - Data Extraction, Data Exploration, Machine Learning, Final insights
+- @mahipandcy - Data Extraction, Data Exploration, Machine Learning, Final insights
 
 ## Problem Definition 
-- Identification and quantification of the most influential factors contributing to the risk of a heart attack.
-- Verification of whether both models employ identical variables for the assessment of heart attack risk through machine learning models.
-
+- Exploratory analysis of variables and Feature selection to statistically rank the features contributing to the risk of a heart attack. 
+- Computing the accuracies of two machine learning models and comparing on the basis of 13,8 and 3 variables.
+  
 ## Models Used
 - Logistic Regression
 - Random Forest Classifier
@@ -44,9 +44,10 @@ For detailed walkthrough please follow through the codes in the following order:
 - The actual comparision of two models using the ROC curve
 - the usage of packages like Radnom Forest classifier and Gradient Boosting existing in anaconda jupyter.
 - The implemntation of google collab.
+- The concepts about precision, recall and F1score
 
 ## Conclusions
-- 
+- Through the feature selection, 
 
 ## References
 - https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/data
