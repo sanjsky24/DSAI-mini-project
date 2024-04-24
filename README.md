@@ -16,6 +16,10 @@ For detailed walkthrough please follow through the codes in the following order:
 - @sanjsky24 - Data Extraction, Data Exploration, Machine Learning, Final insights
 - @mahipandcy - Data Extraction, Data Exploration, Machine Learning, Final insights
 
+## Practical Motivation
+In a world where over half the population is at risk of heart attack, with death records reaching a staggering 20.5 million as of 2021 , the need for effective strategies to tackle this health crisis is urgent.So in this world of heart attack prone population, we believe that the proper exploration, analysis and computing of the dataset will allow us to help domain experts in this case ,the physicians , to optimize treatment strategies as understanding the relationship between various factors. Understanding how various factors relate to the likelihood of a heart attack can guide tailored interventions. For instance, recognizing the impact of exercise-induced angina on heart attack risk can help customize treatment for individuals, ultimately leading to better cardiovascular health management and improved patient outcomes.
+By performing: Data cleaning, exploratory analysis and used machine learning models to a complete analysis of our dataset, this can be considered as research which is done upon a small sample of data and the results can be implemented not only in the fields that we believe can bring a prominent change but to anybody who finds this useful.
+
 ## Problem Definition 
 - Exploratory analysis of variables and Feature selection to statistically rank the features contributing to the risk of a heart attack. 
 - Computing the accuracies of two machine learning models and comparing on the basis of 13,8 and 3 variables.
@@ -41,7 +45,7 @@ For detailed walkthrough please follow through the codes in the following order:
 - Collaboration on GitHub
 - Machine learning mdoels of Logistic regression,Random Forest Classifier and Gradient Boosting.
 - The importance of feature selection in selecting the most important features
-- The actual comparision of two models using the ROC curve
+- The actual comparision of two models using the **ROC curve.**
 - the usage of packages like Radnom Forest classifier and Gradient Boosting existing in anaconda jupyter.
 - The implemntation of google collab.
 - The concepts about precision, recall and F1score
